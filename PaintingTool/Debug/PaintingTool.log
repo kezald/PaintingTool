@@ -1,0 +1,21 @@
+﻿  PaintingTool.c
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(48): warning C4091: 'typedef ': ignored on left of 'Menus' when no variable is declared
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(168): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(513): warning C4020: 'ShowColourDialog': too many actual parameters
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(527): warning C4020: 'ShowColourDialog': too many actual parameters
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(575): warning C4047: 'function': 'LONG' differs in levels of indirection from 'HBRUSH'
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(575): warning C4024: 'SetClassLongW': different types for formal and actual parameter 3
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(586): warning C4047: 'function': 'LONG' differs in levels of indirection from 'HBRUSH'
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(586): warning C4024: 'SetClassLongW': different types for formal and actual parameter 3
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(715): warning C4020: 'WindowPaint': too many actual parameters
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(384): warning C4244: 'initializing': conversion from 'LONG' to 'short', possible loss of data
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(385): warning C4244: 'initializing': conversion from 'LONG' to 'short', possible loss of data
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(757): warning C4029: declared formal parameter list different from definition
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(873): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(874): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(879): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(880): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(867): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(868): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\projectsond\visual\cc++win32\paintingtool\paintingtool.c(956): warning C4029: declared formal parameter list different from definition
+  PaintingTool.vcxproj -> D:\ProjectsOnD\Visual\CC++Win32\Debug\PaintingTool.exe
